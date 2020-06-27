@@ -21,9 +21,9 @@ Dataset used: https://www.kaggle.com/dataturks/vehicle-number-plate-detection
 - scripts.ipynb: contains all commands needed to train ,evaluate and save the model
 
 ## Demo Inference ( taken from tensorboard )
-![Alt Text](https://github.com/harshita-555/Licence-Plate-Detection/blob/master/License_Plate_Detection/output_folder/Images/success_2.png)
-![Alt Text](https://github.com/harshita-555/Licence-Plate-Detection/blob/master/License_Plate_Detection/output_folder/Images/success_3.png)
-![Alt Text](https://github.com/harshita-555/Licence-Plate-Detection/blob/master/License_Plate_Detection/output_folder/Images/fail_1.png)
+![Alt Text](https://github.com/harshita-555/License-Plate-Detection/blob/master/output_folder/Images/success_2.png)
+![Alt Text](https://github.com/harshita-555/License-Plate-Detection/blob/master/output_folder/Images/success_3.png)
+![Alt Text](https://github.com/harshita-555/License-Plate-Detection/blob/master/output_folder/Images/fail_1.png)
 
 
 
